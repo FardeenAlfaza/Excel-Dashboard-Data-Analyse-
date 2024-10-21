@@ -1,0 +1,1 @@
+In this Project. I analyzed Store single Excel Sheet Data and made the same Visual Reports like Top City to interest your store and buy more Products, Men vs. women who are more interested in your product, Order Status, Channel Status, Order vs. sales, etc.
